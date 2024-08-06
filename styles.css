@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body {
+    background-image: linear-gradient(60deg, white, lightblue, lightpink);
+    margin: 8px;
+    display: block;
+}
+.article {
+    border: 2px, solid, black;
+    text-align: center;
+    
+}
+h2 {
+    text-shadow: 2px 2px 5px red;
+    text-decoration: underline;
+    
+}
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
